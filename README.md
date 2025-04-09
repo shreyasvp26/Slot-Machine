@@ -47,5 +47,5 @@ java main
 
 ## 👨‍💻 Author
 
-Shreyas Patil.
+Shreyas Patil
 2nd Year CSE Student @IIIT Pune
