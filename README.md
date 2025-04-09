@@ -36,16 +36,16 @@ You start with a balance of ₹100. Each round, you place a bet and spin the slo
 ## 🖥️ How to Run
 
 1. Make sure Java is installed on your system.
-2. Save the file as `Main.java`.
+2. Save the file as `main.java`.
 3. Open terminal or command prompt in the directory.
 4. Compile and run the game:
 
 ```bash
-javac Main.java
-java Main
+javac main.java
+java main
 ```
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 Shreyas Patil
-2nd Year CSE Student @ IIIT Pune
+2nd Year CSE Student @IIIT Pune
